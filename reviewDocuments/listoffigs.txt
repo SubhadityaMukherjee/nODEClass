@@ -1,0 +1,44 @@
+Fig 1: ASL dataset
+Fig 2: ODE flow
+Fig 3: ASL dataset example
+Fig 4: Boat dataset example
+Fig 5: Flower dataset example
+Fig 6: Garbage dataset example
+Fig 7: Fruits dataset example
+Fig 8: Processor specifications 1
+Fig 9: Processor specifications 2
+Fig 10: EfficientNet parameters
+Fig 11: EfficientNet scaling
+Fig 12: Squeeze Excitation
+Fig 13: EOD Net diagram
+Fig 14: Number of epochs and accuracy
+Fig 15: Our accuracy vs original
+Fig 16: Number of classes
+Fig 17: ASL Epochs
+Fig 18: ASL Accuracy Train
+Fig 19: ASL Accuracy Valid
+Fig 20: ASL Confusion Matrix
+Fig 21: ASL Params
+Fig 22: ASL Learning rate
+Fig 23: Boat Epochs Accuracy
+Fig 24: Boat Confusion Matrix
+Fig 25: Boat Params
+Fig 26: Boat Learning rate
+Fig 27: Boat Loss 1
+Fig 28: Boat Loss 2
+Fig 29: Flowers Epochs 
+Fig 30: Flowers Accuracy Train
+Fig 31: Flowers Accuracy Valid
+Fig 32: Flowers Confusion Matrix
+Fig 33: Flowers Params
+Fig 34: Flowers Learning rate
+Fig 35: Flowers Loss
+Fig 36: Fruits Epochs 
+Fig 37: Fruits Accuracy Train
+Fig 38: Fruits Accuracy Valid
+Fig 39: Fruits Confusion Matrix
+Fig 40: Fruits Params
+Fig 41: Fruits Learning rate
+Fig 42: Garbage Epochs 
+Fig 43: Garbage Accuracy Train
+Fig 44: Fitting Example

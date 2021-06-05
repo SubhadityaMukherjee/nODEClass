@@ -1,4 +1,4 @@
-Rule Discovery using Neural ODEs - American Sign Language Classification
+Rule Discovery using Neural ODEs - ASL Classification
     by Subhaditya Mukherjee (17BCE2193) , Supratim Sarkar (17BCE2203)
 
 Guide
@@ -13,14 +13,6 @@ and created a neural ODE in which a ResNet architecture's res-blocks were
 substituted with an ODE solver which led to not only better results, but also
 more memory efficiency. This project aims to attempt to come up with a better
 architecture that gives SOTA results on the ASL classification dataset.
-
-Dataset
-
-@asl.png
-
-The dataset that will be used is the ASL dataset from
-https://www.kaggle.com/grassknoted/asl-alphabet.  This has about 29 classes of
-which, 10 classes will initally be used to test the system.
 
 Concept
 
@@ -59,6 +51,14 @@ albumentations
 sklearn
 
 Components that will be used
+
+Dataset
+
+@asl.png
+
+The dataset that will be used is the ASL dataset from
+https://www.kaggle.com/grassknoted/asl-alphabet.  This has about 29 classes of
+which, 10 classes will initally be used to test the system.
 
 Reading the data
 

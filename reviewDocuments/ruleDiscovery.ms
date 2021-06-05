@@ -1,5 +1,5 @@
 .TL
-Rule Discovery using Neural ODEs - ASL Classification
+Rule Discovery using Neural ODEs
 .AU
 Subhaditya Mukherjee (17BCE2193)
 Supratim Sarkar (17BCE2203)
